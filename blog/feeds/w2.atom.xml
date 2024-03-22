@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923244協同產品設計實習 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-03-15T08:43:58+08:00</updated><entry><title>2024 Spring 課程二</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-03-15T08:43:58+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;利用codespaces維護倉儲與網站&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923244協同產品設計實習 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T03:15:07+08:00</updated><entry><title>2024 第二周分組與使用codespaces</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-03-22T03:15:07+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;利用codespaces維護倉儲與網站&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;利用codespaces維護倉儲與網站&lt;/p&gt;
 
 
-&lt;h1&gt;利用codespaces維護倉儲與網站&lt;/h1&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;今天的進度是把連結推到分組名單,這樣一來就可以方便我們用來編輯網誌與新增其中的內容,但因劉良有其限制,因此不使用時應立即回到github來關閉&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
+&lt;h1&gt;codespaces&lt;/h1&gt;
+&lt;p&gt;先建立各組的team midag後使用codespaces來開啟動態與靜態,可以方便我們用來編輯網誌與新增期中的內容,因有限制流量所以不使用時可回到github來來關閉&lt;/p&gt;
+&lt;h1&gt;ODOO&lt;/h1&gt;
+&lt;p&gt;介紹SAP與ODOO的應用&lt;/p&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+&lt;p&gt;今天第二周是分組周,利用github classroom建立了我們的各組倉儲,之後可以用來上傳新增個人的內容&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>

@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923244協同產品設計實習 - w1</title><link href="./" rel="alternate"></link><link href="./feeds/w1.atom.xml" rel="self"></link><id>./</id><updated>2024-03-15T09:06:43+08:00</updated><entry><title>2024 Spring 課程一</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-03-15T09:06:43+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-01:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923244協同產品設計實習 - w1</title><link href="./" rel="alternate"></link><link href="./feeds/w1.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T03:15:32+08:00</updated><entry><title>2024 0301 第一周建立部落格</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-03-22T02:55:18+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-01:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;h1&gt;更新每周網誌&lt;/h1&gt;
-&lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;透過replit上的pages即可更新每周網誌,在打完內容後轉至Shell輸入&lt;/p&gt;
-&lt;h3&gt;~/cd2024$ chmod u+x gen_blog&lt;/h3&gt;
-&lt;h3&gt;~/cd2024$ ./gen_blog&lt;/h3&gt;
-&lt;p&gt;執行gen_blog後即可轉檔,最後利用git輸入名稱push即可改版內容&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
+&lt;h1&gt;課程目標&lt;/h1&gt;
+&lt;p&gt;1.建立個人倉儲
+2.下載可攜套件
+3.設定個人blog&lt;/p&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+&lt;p&gt;透過replit上的pages即可更新每周網誌,在打完內容後轉至Shell輸入
+~/cd2024$ chmod u+x gen_blog
+~/cd2024$ ./gen_blog
+執行gen_blog後即可轉檔,最後利用git輸入名稱push即可改版內容&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 0315 第三周建立部落格</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-03-22T03:15:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-01:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;&lt;/h1&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
