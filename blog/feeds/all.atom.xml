@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923244協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T11:00:00+08:00</updated><entry><title>2024 第五周</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-03-22T09:03:55+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-22:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923244協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-10T19:36:33+08:00</updated><entry><title>2024 第五周(統整網誌)</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-04-10T19:36:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-22:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;h1&gt;&lt;/h1&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 第三周分組倉儲與子模組</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-03-22T09:04:04+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-15:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;h1&gt;統整這幾周的內容&lt;/h1&gt;
+&lt;p&gt;經過這幾周的課程內容,我有稍微的了解這些程式之間是如何相互作用的,對於這些軟體我可以說是一竅不通,每次的影片都要重複看三四遍才能大概了解老師想表達的意思,目前其中要準備的翻譯報告我還是不太瞭解,還有nx的部分,所以還得多加努力.&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 第三周分組倉儲與子模組</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-04-10T19:30:34+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-15:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;期中協同&lt;/h1&gt;
 &lt;p&gt;透過putty的連結,將自己的個人倉儲設為群組的子模組&lt;/p&gt;
 &lt;h1&gt;LaTex&lt;/h1&gt;
-&lt;p&gt;利用codespaces設立.github/workflows、latex資料夾,將下載完的檔案輸入到資料夾中,最後push使群組的github出現latex期中報告的檔案,利用action功能可將改版後的檔案轉換成pdf檔&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 第二周分組與使用codespaces</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-03-22T03:15:07+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;利用codespaces維護倉儲與網站&lt;/p&gt;
+&lt;p&gt;利用codespaces設立.github/workflows、latex資料夾,將下載完的檔案輸入到資料夾中,最後push使群組的github出現latex期中報告的檔案,利用action功能可將改版後的檔案轉換成pdf檔&lt;/p&gt;
+&lt;h1&gt;整理教學影片&lt;/h1&gt;
+&lt;p&gt;每一個禮拜製作一部上課影片的逐字稿,並上傳到各組的網站上&lt;/p&gt;
+&lt;h1&gt;介紹各種倉維護方式&lt;/h1&gt;
+&lt;p&gt;第一種 Replit 第二種 Codespaces 第三種 Gitpod 第四種 localhost&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 第二周分組與使用codespaces</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-03-22T03:15:07+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;利用codespaces維護倉儲與網站&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;利用codespaces維護倉儲與網站&lt;/p&gt;
 
 
