@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923244協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-10T20:09:02+08:00</updated><entry><title>2024 第五周</title><link href="./2024-Spring-wFIVE-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-04-10T20:09:02+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./2024-Spring-wFIVE-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923244協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-24T19:20:11+08:00</updated><entry><title>2024 第八周</title><link href="./2024-Spring-wEIGHT-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-04-24T19:20:11+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-19:./2024-Spring-wEIGHT-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;h1&gt;更新分組倉儲中的分組倉儲&lt;/h1&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2024 第四周(統整網誌)</title><link href="./2024-Spring-wFOUR-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-04-10T20:08:55+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-22:./2024-Spring-wFOUR-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;h1&gt;LATEX翻譯任務&lt;/h1&gt;
+&lt;p&gt;這一周是期末考周,自評了分數65分,但我覺得還有很多美中不足的地方,之後再慢慢補上,
+這一周我們組開始分工作業把LATEX翻譯的部分搞定下個禮拜統整&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>2024 第七周</title><link href="./2024-Spring-wSEVEN-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-04-24T19:15:34+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-12:./2024-Spring-wSEVEN-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
+&lt;h1&gt;春假影片回顧&lt;/h1&gt;
+&lt;p&gt;這禮拜放假,透過這次的假期順便回顧一下先前的影片,把還沒做的東西補齊&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>2024 第六周</title><link href="./2024-Spring-wSIX-blog-tutorial.html" rel="alternate"></link><published>2024-04-05T11:00:00+08:00</published><updated>2024-04-24T19:14:19+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-05:./2024-Spring-wSIX-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;春假影片回顧&lt;/h1&gt;
+&lt;p&gt;這禮拜放假,透過這次的假期順便回顧一下先前的影片,把還沒做的東西補齊&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>2024 第五周</title><link href="./2024-Spring-wFIVE-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-04-24T19:12:58+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./2024-Spring-wFIVE-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;更新分組倉儲中的分組倉儲&lt;/h1&gt;
+&lt;p&gt;這禮拜的影片教我們如何用 pelicanconf py 整合各組員的網誌,但我實際操作下來有成功但不知道如何實際運用&lt;/p&gt;
+&lt;h1&gt;將影片更新到網頁上&lt;/h1&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2024 第四周(統整網誌)</title><link href="./2024-Spring-wFOUR-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-04-24T19:07:36+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-22:./2024-Spring-wFOUR-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;教學影片分組整理並自評&lt;/h1&gt;
+&lt;p&gt;這個禮拜持續地完成個逐字稿的影片並統整在一起&lt;/p&gt;
 &lt;h1&gt;統整這幾周的內容&lt;/h1&gt;
 &lt;p&gt;經過這幾周的課程內容,我有稍微的了解這些程式之間是如何相互作用的,對於這些軟體我可以說是一竅不通,每次的影片都要重複看三四遍才能大概了解老師想表達的意思,目前其中要準備的翻譯報告我還是不太瞭解,還有nx的部分,所以還得多加努力.&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 第三周分組倉儲與子模組</title><link href="./2024-Spring-wTHREE-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-04-10T20:08:23+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-15:./2024-Spring-wTHREE-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
