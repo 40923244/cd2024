@@ -22,11 +22,76 @@
 <h1>足球機器人場景模擬</h1>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/yRjwZcIzoiA?si=DsrBpY3t7McBnlTT" title="YouTube video player" width="560"></iframe></p>
 <h1>W17</h1>
+<h2>任務一</h2>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/jdpi-zMwQZs?si=IOK32K-OBa56Oq9d" title="YouTube video player" width="560"></iframe></p>
-<p>組立檔</p>
-<p><a href="/downloads/CAR0.prt">/downloads/CAR0.prt</a></p>
 <p>零件檔</p>
-<p><a href="/downloads/car1.prt">/downloads/car1.</a><a href="/downloads/car1.prt">prt</a></p>
-<p><a href="/downloads/car2.prt">/downloads/car2.</a><a href="/downloads/car2.prt">pr</a><a href="/downloads/car2.prt">t</a></p>
-<p><a href="/downloads/car3.prt">/downloads/car3.</a><a href="/downloads/car3.prt">prt</a></p>
+<p><a href="/downloads/car1.prt">/downloads/car1.prt</a></p>
+<p><a href="/downloads/car2.prt">/downloads/car2.prt</a></p>
+<p><a href="/downloads/car3.prt">/downloads/car3.prt</a></p>
 <p><a href="/downloads/car4.prt">/downloads/car4.prt</a></p>
+<h2>任務二</h2>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/q_7a0LWU-YY?si=6B4vxZnyEKul3z0b" title="YouTube video player" width="560"></iframe></p>
+<p>零件檔</p>
+<p><a href="/downloads/CAR0.prt">/downloads/CAR0.prt</a></p>
+<p>過程有使用<span>Python Journa錄影,但是卻無法成功執行錄製完的檔案</span></p>
+<p><span>以下是詢問google ai後的回答</span></p>
+<p><a href="/downloads/car1.prt"></a></p>
+<div _ngcontent-ng-c4006608594="" class="markdown markdown-main-panel" dir="ltr">
+<p data-sourcepos="3:1-3:39">根據您提供的圖片，錯誤訊息顯示在 NX Open 雜誌程式碼中。錯誤訊息如下：</p>
+<response-element _nghost-ng-c1809659758="" class="" ng-version="0.0.0-PLACEHOLDER"><code-block _ngcontent-ng-c1809659758="" _nghost-ng-c932167683="" class="ng-tns-c932167683-131 ng-star-inserted">
+<div _ngcontent-ng-c932167683="" class="code-block ng-tns-c932167683-131 ng-trigger ng-trigger-codeBlockRevealAnimation">
+<div _ngcontent-ng-c932167683="" class="code-block-internal-container ng-tns-c932167683-131">
+<div _ngcontent-ng-c932167683="" class="animated-opacity ng-tns-c932167683-131">
+<pre _ngcontent-ng-c932167683="" class="ng-tns-c932167683-131"><code _ngcontent-ng-c932167683="" class="code-container ng-tns-c932167683-131 no-decoration-radius" data-sourcepos="5:1-18:62" data-test-id="code-content" role="text"><img alt="" height="154" src="/images/螢幕擷取畫面 2024-06-19 210317.png" width="341"/>
+
+第 60 行：Traceback（最近一次呼叫最後一次）：
+檔案“D:\kamolab\finalexam\all.py”，第 2326 行，在 &lt;module&gt; 中
+main()
+
+檔案“D:\kamolab\finalexam\all.py”，第 60 行，在 main 中
+nXObject1 = fileNew1.Commit()
+
+NXOpen.NXException：檔案已存在                                              
+</code></pre>
+</div>
+</div>
+</div>
+</code-block></response-element>
+<p data-sourcepos="20:1-20:77">此錯誤訊息表明，雜誌程式碼嘗試創建一個名為“all.prt”的新裝配檔案，但同名檔案已存在。這導致了 <strong>NXOpen.NXException</strong> 錯誤。</p>
+<p data-sourcepos="22:1-22:12"><strong>可能的錯誤原因：</strong></p>
+<ol data-sourcepos="24:1-29:0">
+<li data-sourcepos="24:1-25:0">
+<p data-sourcepos="24:4-24:49"><strong>檔案已存在：</strong> 檔案“all.prt”可能已存在於當前工作目錄或創建裝配體的指定位置。</p>
+</li>
+<li data-sourcepos="26:1-27:0">
+<p data-sourcepos="26:4-26:53"><strong>檔案創建衝突：</strong> 雜誌程式碼可能嘗試在另一個程序訪問或修改“all.prt”檔案時創建該檔案。</p>
+</li>
+<li data-sourcepos="28:1-29:0">
+<p data-sourcepos="28:4-28:48"><strong>不正確的檔案路徑：</strong> 雜誌程式碼可能為“all.prt”檔案指定了不正確的檔案路徑。</p>
+</li>
+</ol>
+<p data-sourcepos="30:1-30:11"><strong>故障排除步驟：</strong></p>
+<ol data-sourcepos="32:1-39:0">
+<li data-sourcepos="32:1-33:0">
+<p data-sourcepos="32:4-32:58"><strong>檢查是否存在檔案：</strong> 驗證指定位置是否已存在名為“all.prt”的檔案。如果是，請刪除或重命名該檔案。</p>
+</li>
+<li data-sourcepos="34:1-35:0">
+<p data-sourcepos="34:4-34:47"><strong>關閉衝突程序：</strong> 確保沒有其他應用程序或程序正在訪問或修改“all.prt”檔案。</p>
+</li>
+<li data-sourcepos="36:1-37:0">
+<p data-sourcepos="36:4-36:52"><strong>檢查檔案路徑：</strong> 檢查雜誌程式碼以確保為“all.prt”指定的檔案路徑正確並指向所需位置。</p>
+</li>
+<li data-sourcepos="38:1-39:0">
+<p data-sourcepos="38:4-38:54"><strong>錯誤處理：</strong> 在雜誌程式碼中實現適當的錯誤處理，以優雅地處理檔案創建錯誤並向用戶提供適當的反馈。</p>
+</li>
+</ol>
+<p data-sourcepos="40:1-40:10"><strong>額外的提示：</strong></p>
+<ul data-sourcepos="42:1-45:0">
+<li data-sourcepos="42:1-42:16">使用唯一的文件名來避免衝突。</li>
+<li data-sourcepos="43:1-43:22">使用絕對路徑而不是相對路徑以確保一致性。</li>
+<li data-sourcepos="44:1-45:0">在嘗試創建或修改檔案之前檢查檔案權限。</li>
+</ul>
+<p data-sourcepos="46:1-46:31">按照這些步驟，您應該能夠解決檔案創建錯誤並成功執行雜誌程式碼。</p>
+<h2 data-sourcepos="46:1-46:31">任務三</h2>
+<p></p>
+</div>
